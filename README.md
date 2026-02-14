@@ -5,5 +5,6 @@ This project was made by using HTML,CSS,JavaScript.
 1. Analog clock animation
 2. Digital clock (24-hour format)
 3. Responsive design
+4. A png file added to consider the work
 
 #No License
